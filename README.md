@@ -4,4 +4,15 @@ First; You have to excute the LPVMEhdi.m
 Secondly; the controller gain is calculated through the Gain_Mehdi.m file.
 Finally, run the Simulink File.
 
+If you use this work, please cite my article 
+
+@ARTICLE{9171867,
+  author={M. {Sellali} and A. {Betka} and A. {Djerdir} and Y. {Yang} and I. {Bahri} and S. {Drid}},
+  journal={IEEE Transactions on Energy Conversion}, 
+  title={A Novel Energy Management Strategy in Electric Vehicle Based on H Self-gain Scheduled for Linear Parameter Varying Systems}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={1-1},}
+
 Good Luck
