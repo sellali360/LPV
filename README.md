@@ -4,7 +4,7 @@ First; You have to excute the LPVMEhdi.m
 Secondly; the controller gain is calculated through the Gain_Mehdi.m file.
 Finally, run the Simulink File.
 
-If you use this work, please cite my article 
+If you find thiw work useful please cite the following paper:
 
 @ARTICLE{9171867,
   author={M. {Sellali} and A. {Betka} and A. {Djerdir} and Y. {Yang} and I. {Bahri} and S. {Drid}},
